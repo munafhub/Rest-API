@@ -19,6 +19,7 @@ Build a CRUD REST API for one resource, model it with an ORM and a relationship,
 - Lint is run with `npm run lint`.
 - The API is manually testable with Postman, Thunder Client or curl.
 - The User -> Task relationship is returned by Sequelize includes.
+<<<<<<< HEAD
 
 # Week 3 AI Prompts - JWT Authentication
 
@@ -61,3 +62,5 @@ Add JWT authentication to the existing Week 2 Tasks API while keeping the existi
 - A separate integration test covers the full happy path.
 - ESLint passes with `npm run lint`.
 - Tests run with `npm test`.
+=======
+>>>>>>> b25698554a0347f5900a0cc524de15c8e12e1e23
